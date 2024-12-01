@@ -1,5 +1,6 @@
 # PEC3-VisualizacionDatos
-<img width="869" alt="image" src="https://github.com/user-attachments/assets/bc03fd63-e19f-497c-827c-22f819da78ec">
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/17faf471-6e94-4bd3-abfb-ae57aef93e84">
+
 
 
 Miriam Toledo
